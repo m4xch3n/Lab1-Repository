@@ -55,7 +55,7 @@ These steps help mitigate the challenges I face while coding and allow me to sti
 
 ## Final Thoughts and Next Steps
 
-As much as I wish I could 'sudo rm -rf /*' my brain from time to time, I cannot, and throughout my time as UCSD I have learned how to use it as a tool to use to my advantage rather than something that holds me back. I'm excited for this class because it will help me gain a better understading myself and the work world in which I intend to join very soon. So, both for myself and because I need to fit a task list in here somewhere I am going to be creating a list of things I want to learn by the end of the quarter, and come back to check them off as time goes on.
+As much as I wish I could `sudo rm -rf /*` my brain from time to time, I cannot, and throughout my time as UCSD I have learned how to use it as a tool to use to my advantage rather than something that holds me back. I'm excited for this class because it will help me gain a better understading myself and the work world in which I intend to join very soon. So, both for myself and because I need to fit a task list in here somewhere I am going to be creating a list of things I want to learn by the end of the quarter, and come back to check them off as time goes on.
  - [ ] Get used to coding in a team environment
  - [ ] Get better with industry tools and learn to speak some jargon
  - [ ] Upgrade my communication skills and get close with my team
