@@ -4,5 +4,5 @@ In my personal opinion, who people are as coders and who they are as a person ar
 
 **_Are you ready?_**
 
-![This is an image](https://ifunny.co/picture/my-mind-is-like-an-internet-browser-17-labs-are-vnjC4qPv6?s=cl)
+![This is an image](https://img.ifunny.co/images/4c14d264c128fb7895c5013d4e642b39049a4dfcfaefb9cd6478abf454432010_1.webp)
 
